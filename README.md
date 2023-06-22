@@ -29,7 +29,7 @@ There are three different methods in SfM namely, incremental SfM, global SfM, an
 ```bash
 pip3 install opencv-contrib-python
 pip3 install scipy
-pip3 install toolkit
+pip3 install tomlkit
 pip3 install tqdm
 ```
 
